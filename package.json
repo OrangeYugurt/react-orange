@@ -22,7 +22,7 @@
     "react": "^16.3.2",
     "react-dom": "^16.3.2",
     "webpack": "^4.6.0",
-    "webpack-cli": "^2.0.15"
+    "webpack-cli": "^5.0.1"
   },
   "devDependencies": {
     "autoprefixer": "^8.4.1",
